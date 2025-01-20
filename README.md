@@ -8,7 +8,7 @@ If you can't update to python/gtk 3 and only have python2/gtk2, then keep using 
 ## Installation
 
 ### From binary package
-The easiest way to install GCM is to download the deb or rpm package from [releases](https://github.com/kuthulux/gnome-connection-manager/releases) or from [kuthulu.com](http://kuthulu.com/gcm/download.html) and install it using the package manager
+The easiest way to install GCM is to download the deb or rpm package from [releases](https://github.com/kuthulux/gnome-connection-manager/releases) or from and install it using the package manager
 
 #### Debian/Ubuntu
 `sudo dpkg -i gnome-connection-manager_1.2.0_all.deb`
